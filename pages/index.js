@@ -74,7 +74,7 @@ export default function Home() {
         </div>
 
       <div className={styles.card_element}>
-        <h1 className={styles.subtitle}>TAPETES</h1>
+        <h1 className={styles.subtitle}>RUGS</h1>
         <img className={styles.img}
           src="./images/tapete_mario.jpg"
           alt="Tapete Mario Bross"
@@ -105,7 +105,7 @@ export default function Home() {
       </div>
 
       <div className={styles.card_element}>
-        <h1 className={styles.subtitle}>ALMOFADAS</h1>
+        <h1 className={styles.subtitle}>PILLOW</h1>
         <img className={styles.img}
           src="./images/almofada_deathnote.jpeg"
           alt="Almofada Death Note"
